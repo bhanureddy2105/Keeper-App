@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: #f5ba13;
+  background-color: #2989c0;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -61,7 +61,7 @@ footer p {
   position: relative;
   float: right;
   margin-right: 10px;
-  color: #f5ba13;
+  color: #2989c0;
   border: none;
   width: 45px;
   height: 45px;
@@ -98,7 +98,7 @@ form .Fab {
   right: 18px;
   bottom: -18px;
   /* float: right; */
-  background: #f5ba13;
+  background: #2989c0;
   color: #fff;
   border: none;
   border-radius: 50%;
