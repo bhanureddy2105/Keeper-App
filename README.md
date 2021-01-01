@@ -1,3 +1,11 @@
+# Keeper App
+A note-taking app where users can enter title and description and can save the notes in the website
+
+# Screenshots
+![image](https://user-images.githubusercontent.com/60293758/103438538-ddaf8500-4c59-11eb-93d4-aae0cbbee98b.png)
+![image](https://user-images.githubusercontent.com/60293758/103438614-8eb61f80-4c5a-11eb-942a-2814629fcdb4.png)
+![image](https://user-images.githubusercontent.com/60293758/103438630-b311fc00-4c5a-11eb-9d17-1b73f90bffea.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
